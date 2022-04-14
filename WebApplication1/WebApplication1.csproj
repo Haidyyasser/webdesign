@@ -67,17 +67,77 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Registeration.aspx" />
+    <Content Include="BestSeller.aspx" />
+    <Content Include="brands.html" />
+    <Content Include="Dawa2y.aspx" />
+    <Content Include="panadol.aspx" />
+    <Content Include="HealthTips.aspx" />
+    <Content Include="Home.html" />
+    <Content Include="ind.html" />
+    <Content Include="logo.html" />
+    <Content Include="Roshetety.aspx" />
+    <Content Include="Sign in.aspx" />
+    <Content Include="Signup.aspx" />
     <Content Include="Web.config" />
+    <Content Include="links.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Registeration.aspx.cs">
-      <DependentUpon>Registeration.aspx</DependentUpon>
+    <Compile Include="BestSeller.aspx.cs">
+      <DependentUpon>BestSeller.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Registeration.aspx.designer.cs">
-      <DependentUpon>Registeration.aspx</DependentUpon>
+    <Compile Include="BestSeller.aspx.designer.cs">
+      <DependentUpon>BestSeller.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dawa2y.aspx.cs">
+      <DependentUpon>Dawa2y.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dawa2y.aspx.designer.cs">
+      <DependentUpon>Dawa2y.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="panadol.aspx.cs">
+      <DependentUpon>panadol.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="panadol.aspx.designer.cs">
+      <DependentUpon>panadol.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HealthTips.aspx.cs">
+      <DependentUpon>HealthTips.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HealthTips.aspx.designer.cs">
+      <DependentUpon>HealthTips.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="links.aspx.cs">
+      <DependentUpon>links.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="links.aspx.designer.cs">
+      <DependentUpon>links.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Roshetety.aspx.cs">
+      <DependentUpon>Roshetety.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Roshetety.aspx.designer.cs">
+      <DependentUpon>Roshetety.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sign in.aspx.cs">
+      <DependentUpon>Sign in.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sign in.aspx.designer.cs">
+      <DependentUpon>Sign in.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Signup.aspx.cs">
+      <DependentUpon>Signup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Signup.aspx.designer.cs">
+      <DependentUpon>Signup.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
